@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
  
+I love Elixir And Rust
+Blockchain developer/engineer
+Engaged in Distributed Systems
+ 
  ![Metrics](/github-metrics.svg)
